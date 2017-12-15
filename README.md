@@ -54,4 +54,6 @@ File paths and file names are also subject to change :
     
 License
 ---------------
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
 This project is licensed under Mozilla Public License, Version 2.0. See LICENSE for full license text.
