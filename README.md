@@ -1,4 +1,8 @@
-﻿# e-Housing Scraper in iMacros
+# DEPRECATED
+
+Scripts are no longer implemented in iMacro after iMacro monetization move and e-Housing platform migration.
+
+# e-Housing Scraper in iMacros
 
 ![hong-kong](https://github.com/tc-ying/imacros-ehousing-scraper/blob/master/docs/hkha-logo.png)
 
